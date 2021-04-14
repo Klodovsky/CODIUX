@@ -1,6 +1,6 @@
-# strong
+# Overview
 
-> My classy Nuxt.js project
+> Vue.js & Nuxt.js freelance project
 
 ## Build Setup
 
