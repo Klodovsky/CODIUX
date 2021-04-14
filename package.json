@@ -1,0 +1,19 @@
+{
+  "name": "CODIUX",
+  "version": "2.0.0",
+  "description": "CODIUX - Vue Nuxt It Solutions Services Company",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue": "^2.0.8",
+    "vue-server-renderer": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
