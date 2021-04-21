@@ -1,6 +1,7 @@
 # Overview
 
 > Vue.js & Nuxt.js freelance project
+> ![alt text](https://github.com/Klodovsky/CODIUX/blob/master/static/img/Screenshots/home1.PNG?raw=true)
 
 ## Build Setup
 
