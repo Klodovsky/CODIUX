@@ -1,0 +1,159 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-agreement:before { content: "\f100"; }
+.flaticon-002-analysis:before { content: "\f101"; }
+.flaticon-003-announcement:before { content: "\f102"; }
+.flaticon-004-bar-chart:before { content: "\f103"; }
+.flaticon-005-brainstorm:before { content: "\f104"; }
+.flaticon-006-budget:before { content: "\f105"; }
+.flaticon-007-business:before { content: "\f106"; }
+.flaticon-008-business:before { content: "\f107"; }
+.flaticon-009-business:before { content: "\f108"; }
+.flaticon-010-business:before { content: "\f109"; }
+.flaticon-011-business:before { content: "\f10a"; }
+.flaticon-012-business:before { content: "\f10b"; }
+.flaticon-013-business-strategy:before { content: "\f10c"; }
+.flaticon-014-business:before { content: "\f10d"; }
+.flaticon-015-business:before { content: "\f10e"; }
+.flaticon-016-checklist:before { content: "\f10f"; }
+.flaticon-017-collaboration:before { content: "\f110"; }
+.flaticon-018-corporate:before { content: "\f111"; }
+.flaticon-019-currency:before { content: "\f112"; }
+.flaticon-020-database:before { content: "\f113"; }
+.flaticon-021-date:before { content: "\f114"; }
+.flaticon-022-discussion:before { content: "\f115"; }
+.flaticon-023-dividends:before { content: "\f116"; }
+.flaticon-024-document:before { content: "\f117"; }
+.flaticon-025-dollar:before { content: "\f118"; }
+.flaticon-026-economy:before { content: "\f119"; }
+.flaticon-027-employee:before { content: "\f11a"; }
+.flaticon-028-financial:before { content: "\f11b"; }
+.flaticon-029-financial:before { content: "\f11c"; }
+.flaticon-030-financial:before { content: "\f11d"; }
+.flaticon-031-financial:before { content: "\f11e"; }
+.flaticon-032-financial:before { content: "\f11f"; }
+.flaticon-033-focus:before { content: "\f120"; }
+.flaticon-034-hr-manager:before { content: "\f121"; }
+.flaticon-035-human-resources:before { content: "\f122"; }
+.flaticon-036-idea:before { content: "\f123"; }
+.flaticon-037-investment:before { content: "\f124"; }
+.flaticon-038-jigsaw:before { content: "\f125"; }
+.flaticon-039-loss:before { content: "\f126"; }
+.flaticon-040-money-bag:before { content: "\f127"; }
+.flaticon-041-network:before { content: "\f128"; }
+.flaticon-042-organization-chart:before { content: "\f129"; }
+.flaticon-043-paper-money:before { content: "\f12a"; }
+.flaticon-044-partnership:before { content: "\f12b"; }
+.flaticon-045-presentation:before { content: "\f12c"; }
+.flaticon-046-privacy-policy:before { content: "\f12d"; }
+.flaticon-047-process:before { content: "\f12e"; }
+.flaticon-048-profit:before { content: "\f12f"; }
+.flaticon-049-profit:before { content: "\f130"; }
+.flaticon-050-money-bag:before { content: "\f131"; }
+.flaticon-051-profit:before { content: "\f132"; }
+.flaticon-052-project-plan:before { content: "\f133"; }
+.flaticon-053-project:before { content: "\f134"; }
+.flaticon-054-retirement:before { content: "\f135"; }
+.flaticon-055-rewards:before { content: "\f136"; }
+.flaticon-056-rupee:before { content: "\f137"; }
+.flaticon-057-statistics:before { content: "\f138"; }
+.flaticon-058-suitcase:before { content: "\f139"; }
+.flaticon-059-target:before { content: "\f13a"; }
+.flaticon-060-team-work:before { content: "\f13b"; }
+.flaticon-061-weak:before { content: "\f13c"; }
+.flaticon-062-workflow:before { content: "\f13d"; }
+
+$font-Flaticon-001-agreement: "\f100";
+$font-Flaticon-002-analysis: "\f101";
+$font-Flaticon-003-announcement: "\f102";
+$font-Flaticon-004-bar-chart: "\f103";
+$font-Flaticon-005-brainstorm: "\f104";
+$font-Flaticon-006-budget: "\f105";
+$font-Flaticon-007-business: "\f106";
+$font-Flaticon-008-business: "\f107";
+$font-Flaticon-009-business: "\f108";
+$font-Flaticon-010-business: "\f109";
+$font-Flaticon-011-business: "\f10a";
+$font-Flaticon-012-business: "\f10b";
+$font-Flaticon-013-business-strategy: "\f10c";
+$font-Flaticon-014-business: "\f10d";
+$font-Flaticon-015-business: "\f10e";
+$font-Flaticon-016-checklist: "\f10f";
+$font-Flaticon-017-collaboration: "\f110";
+$font-Flaticon-018-corporate: "\f111";
+$font-Flaticon-019-currency: "\f112";
+$font-Flaticon-020-database: "\f113";
+$font-Flaticon-021-date: "\f114";
+$font-Flaticon-022-discussion: "\f115";
+$font-Flaticon-023-dividends: "\f116";
+$font-Flaticon-024-document: "\f117";
+$font-Flaticon-025-dollar: "\f118";
+$font-Flaticon-026-economy: "\f119";
+$font-Flaticon-027-employee: "\f11a";
+$font-Flaticon-028-financial: "\f11b";
+$font-Flaticon-029-financial: "\f11c";
+$font-Flaticon-030-financial: "\f11d";
+$font-Flaticon-031-financial: "\f11e";
+$font-Flaticon-032-financial: "\f11f";
+$font-Flaticon-033-focus: "\f120";
+$font-Flaticon-034-hr-manager: "\f121";
+$font-Flaticon-035-human-resources: "\f122";
+$font-Flaticon-036-idea: "\f123";
+$font-Flaticon-037-investment: "\f124";
+$font-Flaticon-038-jigsaw: "\f125";
+$font-Flaticon-039-loss: "\f126";
+$font-Flaticon-040-money-bag: "\f127";
+$font-Flaticon-041-network: "\f128";
+$font-Flaticon-042-organization-chart: "\f129";
+$font-Flaticon-043-paper-money: "\f12a";
+$font-Flaticon-044-partnership: "\f12b";
+$font-Flaticon-045-presentation: "\f12c";
+$font-Flaticon-046-privacy-policy: "\f12d";
+$font-Flaticon-047-process: "\f12e";
+$font-Flaticon-048-profit: "\f12f";
+$font-Flaticon-049-profit: "\f130";
+$font-Flaticon-050-money-bag: "\f131";
+$font-Flaticon-051-profit: "\f132";
+$font-Flaticon-052-project-plan: "\f133";
+$font-Flaticon-053-project: "\f134";
+$font-Flaticon-054-retirement: "\f135";
+$font-Flaticon-055-rewards: "\f136";
+$font-Flaticon-056-rupee: "\f137";
+$font-Flaticon-057-statistics: "\f138";
+$font-Flaticon-058-suitcase: "\f139";
+$font-Flaticon-059-target: "\f13a";
+$font-Flaticon-060-team-work: "\f13b";
+$font-Flaticon-061-weak: "\f13c";
+$font-Flaticon-062-workflow: "\f13d";
