@@ -7,12 +7,15 @@
 
 ```bash
 # install dependencies
- NPM : You must have to npm install packages. You can do this by running npm install from the root of your project to install all the necessary dependencies : 
+ NPM : You must have to npm install packages. 
+ You can do this by running npm install from the root of your project to install all the necessary dependencies : 
+ 
 $ npm install
 ```
 ## Development server 
 ```bash
-Run npm run dev for a dev server. Navigate to http://localhost:3000 . The app will automatically reload if you change any of the source files.
+Run npm run dev for a dev server. Navigate to ![alt text](http://localhost:3000). 
+The app will automatically reload if you change any of the source files.
 
 $ npm run dev 
 ```
